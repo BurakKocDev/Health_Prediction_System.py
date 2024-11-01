@@ -17,3 +17,7 @@ Gelişmiş Makine Öğrenimi Modelleri: Kalp krizi, Alzheimer, Parkinson gibi ha
 Dinamik Veri Girişi: Kullanıcılar, belirli özellikleri seçerek veya girerek tahmin işlemini başlatabilir.
 Hızlı ve Güvenilir Tahmin: Gelişmiş algoritmalar, kullanıcıların girdikleri verilere göre hızlı ve doğru tahminler yapar.
 Bu proje, sağlık alanında yenilikçi bir yaklaşım sunarak bireylerin sağlıklarını yönetmelerine yardımcı olmayı amaçlamaktadır. Geliştirilen sistem, toplum sağlığını iyileştirmek için önemli bir adım olarak değerlendirilmektedir.
+
+
+
+https://youtu.be/U9IqO4VCxNY
